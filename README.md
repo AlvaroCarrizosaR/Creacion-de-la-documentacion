@@ -3,7 +3,7 @@
 En este curso aprenderas a realizar la documentación de tus proyectos.
 ####*¿Que es GitHub?* Es un sistema de control de versiones
 
-![Logo de Python](img\git.png)
+![Logo de Python](https://github.com/AlvaroCarrizosaR/Creacion-de-la-documentacion/blob/main/img/git.png)
 
 **Requisitos**
 
