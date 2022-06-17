@@ -19,7 +19,7 @@ Crear una cuenta en [GitHub](https://github.com/)
 ## Paso 2
 Una vez creada la cuenta regresamos a nuestro editor de texto (Visual Studio Code) y creamos un archivo en la carpeta de nuestro proyecto con el nombre README.add.
 
-![Ilustracion 1](img\Picture1.png)
+![Ilustracion 1](https://github.com/AlvaroCarrizosaR/Creacion-de-la-documentacion/blob/main/img/Picture1.png)
 
 ## Paso 3
 Para comenzar a realizar la sincronización entre Visual Studio Code y GitHub ingresamos el comando *git init* para comenzar el repositorio de git
